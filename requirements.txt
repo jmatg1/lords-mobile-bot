@@ -1,0 +1,2 @@
+image==1.5.33
+threaded==4.1.0
