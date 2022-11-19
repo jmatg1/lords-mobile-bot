@@ -13,6 +13,7 @@ or Change hd-adb in the code to `C:\Program Files\BlueStacks\hd-adb.exe`
 
 ## Install
 install tesseract-ocr-w64-setup-v5.0.0.20211201
+
 py -m pip install -r requirements.txt
 
 
