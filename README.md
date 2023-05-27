@@ -12,6 +12,7 @@ Add path `C:\Program Files\BlueStacks\ (Default Path)` on the Environment Window
 or Change hd-adb in the code to `C:\Program Files\BlueStacks\hd-adb.exe`
 
 ## Install
+Python 3.9.1 https://www.python.org/downloads/release/python-391/
 install tesseract-ocr-w64-setup-v5.0.0.20211201
 
 py -m pip install -r requirements.txt
